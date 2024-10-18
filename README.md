@@ -2,7 +2,7 @@
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/2c4fc70a-9633-485e-a3d6-aef57359b81a">
 
-Hosted link: 
+Hosted link: https://pankajkush17.github.io/
 
 
 ## Overview
@@ -38,8 +38,8 @@ This project is designed to retrieve weather data from the OpenWeatherMap API at
 
 1. **Clone the Repository**
    ```bash
-   git clone 
-   cd App2-Weather-app
+   git clone "https://github.com/pankajkush17/Weather-Monitoring-with-Rollups-and-Aggregates"
+   cd Weather-Monitoring-with-Rollups-and-Aggregates
    ```
 
 2. **Install Backend Dependencies**
@@ -53,7 +53,7 @@ This project is designed to retrieve weather data from the OpenWeatherMap API at
 
    ```bash
    npm install http-server -g
-   http-server -p 8080**
+   http-server -p 8080
    ```
 
 ## Running Tests
